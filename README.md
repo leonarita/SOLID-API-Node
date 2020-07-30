@@ -33,6 +33,4 @@ SOLID é um padrão de projeto utilizado na Programação Orientada a Objetos qu
 
 ## Aplicação Node
 
-<br>
-
 Foram utilizadas as ferramentas `express`, `uuidv4` e `nodemailer`.
